@@ -1,5 +1,0 @@
-com\mithun\JobPortal\controller\JobController.class
-com\mithun\JobPortal\service\JobService.class
-com\mithun\JobPortal\model\JobPost.class
-com\mithun\JobPortal\JobPortalApplication.class
-com\mithun\JobPortal\repo\JobRepo.class
